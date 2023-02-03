@@ -85,6 +85,35 @@ code {
 }
 .Box4{
   height: 441px;
-  width: 1440px;
-  border:1px solid red;
+  width: 100%;
+  /* border:1px solid red; */
+}
+.ServicesBox{
+  width: 70%;
+  padding: 100px;
+}
+.ServicesBox >div{
+  width: 33%;
+}
+.EmailSection{
+  height: 552px;
+  width: 100%;
+  background-color:  #282C4B;
+}
+.ImgGirl{
+  width: 556px;
+  /* border: 1px solid red; */
+  height: 552px;
+}
+.GetButton2{
+  width: 210px;
+  height: 68px; 
+  margin-left: -35px;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+background: linear-gradient(97.32deg, #FF698D -3.47%, #FB3F6C 108.43%);
+border: 2px solid rgba(255, 255, 255, 0.8);
+box-shadow: 0px 30px 50px rgba(168, 22, 75, 0.15);
+border-radius: 192px;
 }
