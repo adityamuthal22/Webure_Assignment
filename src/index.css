@@ -77,43 +77,96 @@ code {
   box-shadow: 0px 30px 50px rgba(168, 22, 75, 0.15);
   border-radius: 192px;
 }
-.BusinessLogo{
+.BusinessLogo {
   height: 576px;
   width: 500.31px;
   margin-left: 80px;
   margin-top: -60px;
 }
-.Box4{
+.Box4 {
   height: 441px;
   width: 100%;
   /* border:1px solid red; */
 }
-.ServicesBox{
+.ServicesBox {
   width: 70%;
   padding: 100px;
 }
-.ServicesBox >div{
+.ServicesBox > div {
   width: 33%;
 }
-.EmailSection{
+.EmailSection {
   height: 552px;
   width: 100%;
-  background-color:  #282C4B;
+  background-color: #282c4b;
 }
-.ImgGirl{
+.ImgGirl {
   width: 556px;
   /* border: 1px solid red; */
   height: 552px;
 }
-.GetButton2{
+.GetButton2 {
   width: 210px;
-  height: 68px; 
+  height: 68px;
   margin-left: -35px;
   color: white;
   font-weight: 700;
   font-size: 18px;
-background: linear-gradient(97.32deg, #FF698D -3.47%, #FB3F6C 108.43%);
-border: 2px solid rgba(255, 255, 255, 0.8);
-box-shadow: 0px 30px 50px rgba(168, 22, 75, 0.15);
-border-radius: 192px;
+  background: linear-gradient(97.32deg, #ff698d -3.47%, #fb3f6c 108.43%);
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 30px 50px rgba(168, 22, 75, 0.15);
+  border-radius: 192px;
+}
+.SolutionBox{
+  height: 630px;
+  width: 100%;
+  /* border: 1px solid red; */
+}
+.SolutionBox>div{
+  width: 50%;
+  /* border: 1px solid black */
+}
+.LearnButton{
+  margin-top: 20px;
+  width: 210px;
+  height: 68px;
+  font-weight: 700;
+  color: white;
+  font-size: 20px; 
+  border-radius: 10px;
+  background-color: blue;
+}
+.ClientSectionBox{
+  height: 400px;
+  width: 100%;
+}
+.CircleLogo{
+  width: 119.94px;
+height: 121.22px;
+margin-left: 443px;
+}
+.WhatText{
+  margin-left: -70px;
+}
+.ClientsBox2{
+  height: 206px;
+  width: 100%;
+  /* border: 1px solid pink; */
+}
+.OurBox{
+  width: 178px;
+height: 108px;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+margin-top: 10px;
+}
+.OurBox2{
+  font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 34px;
+width: 1105px;
+color: #A9A9A9;
 }
