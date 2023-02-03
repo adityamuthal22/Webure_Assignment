@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.NavBox {
+  margin-top: 49px;
+  /* border: 1px solid red; */
+}
+.Button1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  color: #282c4b;
+  border-radius: 80px;
+  height: 55px;
+  width: 143px;
+  border: 1px solid rgba(137, 77, 234, 0.5);
+}
+.Button1:hover {
+  color: #282c4b;
+  background-color: rgba(240, 10, 182, 0.897);
+}
+.PatnarBox {
+  height: 140px;
+  /* border: 1px solid red; */
+}
+.Box2 {
+  margin-left: 100px;
+}
+.RightLogo {
+  margin-left: -20px;
+  height: 10px;
+  margin-top: 8px;
+}
+.GoalsHead {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 80px;
+  letter-spacing: 0.02em;
+  color: #282c4b;
+}
+.Text2 {
+  width: 561px;
+  height: 108px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 36px;
+  color: #747582;
+}
+.GetButton {
+  height: 68px;
+  width: 210px;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  background: linear-gradient(97.32deg, #ff698d -3.47%, #fb3f6c 108.43%);
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 30px 50px rgba(168, 22, 75, 0.15);
+  border-radius: 192px;
+}
+.BusinessLogo{
+  height: 576px;
+  width: 500.31px;
+  margin-left: 80px;
+  margin-top: -60px;
+}
+.Box4{
+  height: 441px;
+  width: 1440px;
+  border:1px solid red;
+}
